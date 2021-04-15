@@ -5,7 +5,7 @@
 <br>
 # Broadcom SONiC 3.1.0 
 
-### Sonic Command Line Interface Guide
+### SONiC Command Line Interface Guide
 <br>
 <br>
 <br>
@@ -69,7 +69,7 @@ The direct scripts/utilities/commands (examples given below) that are not wrappe
   1) Acl_loader: This script is already wrapped inside "config acl" command; i.e. any ACL configuration that user is allowed to do is already part of "config acl" command; users are not expected to use the acl_loader script directly and hence this document need not explain the "acl_loader" script.
   2) Sonic-clear, sfputil, etc., This document does not explain these scripts also. 
 
-# Basic Configuration And Show  
+# Basic Configuration and Show  
 
 This section covers the basic configurations related to the following
  1) [SSH login](#SSH-Login), 
